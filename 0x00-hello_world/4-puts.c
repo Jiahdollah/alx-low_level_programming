@@ -1,6 +1,6 @@
 /*
  * File: 4-puts.c
- * Auth: peter njihia
+ * Auth: peter njihia <peternjihia2001@gmail.com>
  */
 
 #include <stdio.h>
@@ -13,7 +13,7 @@
  */
 int main(void)
 {
-	puts("\"programing is like biulding a multilingual puzzel");
+	puts("\"programming is like biulding a multilingual puzzel");
 
 	return (0);
 }
