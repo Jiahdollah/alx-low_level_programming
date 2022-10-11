@@ -1,5 +1,5 @@
-#include <stdio.h>
-#include "dog.h"
+#ifndef STRTYP
+#define STRTYP
 
 /**
  * struct dog - structure of a dog.
@@ -21,4 +21,4 @@ void print_dog(struct dog *d);
 dog-t *new_dog(char *poppy, float age, char *owner);
 void free_dog(dog_t *d);
 
-#endif /*dog.h*/
+#endif /*STRTYP*/
